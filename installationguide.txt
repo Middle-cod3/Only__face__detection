@@ -1,0 +1,7 @@
+Go to 
+https://pypi.org/project/face-recognition/
+
+https://visualstudio.microsoft.com/
+download visual studio community version
+
+Install dlib
